@@ -4,7 +4,7 @@ Display images in [Jupyter notebook](http://jupyter.org/) %%bash cell
 
 ## Usage
 
-<img alt="usage" src="./usage.png" styel="width: 80%;" />
+<img alt="usage" src="./usage.png" width=600 />
 
 ## Setup
 
