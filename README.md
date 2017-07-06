@@ -1,8 +1,10 @@
 # BashWithDisplayMagic
 
+Display images in [Jupyter notebook](http://jupyter.org/) %%bash cell
+
 ## Usage
 
-![usage](./usage.png)
+<img alt="usage" src="./usage.png" styel="width: 80%;" />
 
 ## Setup
 
